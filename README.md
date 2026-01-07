@@ -1,8 +1,8 @@
 **Context of the project**
 
-This project consists on building the best classifier possible ehich classifies sports images of 100 different spors.
+This project consists on building the best classifier possible which classifies sports images of 100 different sports.
 
-To do this, we are going to use neural networks.
+To do this, we use neural networks.
 
 **Link to wandb**
 
